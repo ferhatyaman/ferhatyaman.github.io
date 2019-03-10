@@ -1,6 +1,6 @@
 # main text of home
 name: Ferhat Yaman
-bio: Traveler, Software and Electronics Engineer, Explorer of Cultures
+bio: Traveler, Software and Electronics Engineer Explorer of Cultures
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,15 +34,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/ferhat.yaman.3781
-twitter: https://twitter.com/kodfikrete
+facebook: fyaman96
+twitter: kodfikrete
 # google: mygoogle
-instagram: https://www.instagram.com/kodfikrete/
+instagram: kodfikrete
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/ferhatyaman
+linkedin: ferhatyaman
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/ferhatyaman
+github: ferhatyaman
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: https://github.com/ferhatyaman
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: mailto:ferhatyaman@sabanciuniv.edu
+email: ferhatyaman@sabanciuniv.edu
 
 authors:
     ferhatyaman:
@@ -59,7 +59,7 @@ authors:
         bio: Traveler, Software and Electronics Engineer, Explorer of Cultures
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: https://twitter.com/kodfikrete
+        twitter:kodfikrete
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
