@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>This is Ferhat. I am 23 years old, from Istanbul, Turkey. I am studying Computer Science and Electronics Engineering at Sabanci University. It can seem that I am much like a tech guy, actually not at all. Yeah, those new technology and researches make me excited and I want to be part of it. On the other hand, meeting with new people and listening to their stories and cultures are also pleasant to me.</p>
+<p>This is Ferhat. I am 25 years old, from Raleigh, North Carolina. I am doing Ph.D. on Computer Engineering at North Carolina State University. It can seem that I am much like a tech guy, actually not at all. Yeah, those new technology and researches make me excited and I want to be part of it. On the other hand, meeting with new people and listening to their stories and cultures are also pleasant to me.</p>
 
 <p>I always try to combine my desires and dreams with my job. Because of that purpose, I was traveling around the world when I did an exchange semester in Hong Kong, an internship in Boston and another internship in Croatia. Lastly, I have been in Singapore for almost 3 months to research deep learning protocols on encrypted data. I have accumulated some stories and experience from my travels, internships, and studies. I will be posting those in here.</p>
 
