@@ -34,14 +34,14 @@ disqus:
   categories:  # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: fyaman96
+# facebook: fyaman96
 twitter: kodfikrete
 # google: mygoogle
-instagram: kodfikrete
+# instagram: kodfikrete
 # pinterest: mypinterest
 linkedin: ferhatyaman
 # youtube: myyoutube
-# spotify: myspotify
+spotify: kodfikrete
 github: ferhatyaman
 # gitlab: mygitlab
 # lastfm: mylastfm
@@ -51,7 +51,7 @@ github: ferhatyaman
 medium: ferhatymn
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: ferhatyaman@sabanciuniv.edu
+email: fyaman@ncsu.edu
 
 authors:
     ferhatyaman:
