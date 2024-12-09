@@ -13,10 +13,10 @@ My research interests include side-channel analysis, post-quantum cryptography, 
 
 Publications
 ======
-1. **<ins>Yaman, F.</ins>**, Mert, A.C., Ozturk, E., Savas E., **“A Hardware Accelerator for Polynomial Multiplication Operation of CRYSTALS-KYBER PQC Scheme”** Design, Automation & Test in Europe Conference & Exhibition *(DATE’21)*
-2. Magara, S.S., Yildirim, C., **<ins>Yaman, F</ins>**., Dilekoğlu B., Tutas, F.R., Ozturk, E., Kaya, K., Taştan, O.,  and E Savas, E., **“ML with HE: Privacy Preserving Machine Learning Inferences for Genome Studies”**. ACM Computer and Communications Security, *CCS’21, PPML Workshop*
-3. Calhoun, A., Ortega, E., **<ins>Yaman, F.</ins>**, Dubey A., Aysu, A., **“Hands-On Teaching of Hardware Security for Machine Learning”** Proceedings of the Great Lakes Symposium on VLSI, *(ACM GLS-VLSI 2022)* 
-4. Mert, A.C., **<ins>Yaman, F.</ins>**, Karabulut, E., Ozturk, E., Savas, E., Aysu, A., **“A Survey of Software Implementations for the Number Theoretic Transform”** SAMOS 2023 International Conference on Embedded Computer Systems
+1. **<ins>Yaman, F.</ins>**, Mert, A.C., Ozturk, E., Savas E., **“[A Hardware Accelerator for Polynomial Multiplication Operation of CRYSTALS-KYBER PQC Scheme](https://eprint.iacr.org/2021/485.pdf)”** Design, Automation & Test in Europe Conference & Exhibition *(DATE’21)*
+2. Magara, S.S., Yildirim, C., **<ins>Yaman, F</ins>**., Dilekoğlu B., Tutas, F.R., Ozturk, E., Kaya, K., Taştan, O.,  and E Savas, E., **“[ML with HE: Privacy Preserving Machine Learning Inferences for Genome Studies](https://arxiv.org/pdf/2110.11446)”**. ACM Computer and Communications Security, *CCS’21, PPML Workshop*
+3. Calhoun, A., Ortega, E., **<ins>Yaman, F.</ins>**, Dubey A., Aysu, A., **“[Hands-On Teaching of Hardware Security for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3526241.3530828)”** Proceedings of the Great Lakes Symposium on VLSI, *(ACM GLS-VLSI 2022)* 
+4. Mert, A.C., **<ins>Yaman, F.</ins>**, Karabulut, E., Ozturk, E., Savas, E., Aysu, A., **“[A Survey of Software Implementations for the Number Theoretic Transform](https://dl.acm.org/doi/abs/10.1007/978-3-031-46077-7_22)”** SAMOS 2023 International Conference on Embedded Computer Systems
 
 Work Experiences
 ======
