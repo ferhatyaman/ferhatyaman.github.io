@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://media.licdn.com/dms/image/v2/C5603AQG7_Lj2mwWErQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1654981866612?e=1739404800&v=beta&t=mlOQrJoZLTHVjw4WHJutCycSiASiYWpeDgmShwFoBBo"
   name             : "Ferhat Yaman"
   pronouns         : # example: "she/her"  
-  bio              : "Security Reseacher"
+  bio              : "Security Researcher at AMD | Expert in Side-Channel Analysis, Post-Quantum Cryptography & Homomorphic Encryption | Advancing Secure Machine Learning"
   location         : "Boston, MA"
   employer         : "AMD"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : ferhatyaman # Username
   mastodon         : # URL
   medium           : https://medium.com/@ferhatymn # URL
   pinterest        : # Username
