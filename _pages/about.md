@@ -13,15 +13,18 @@ My research interests include side-channel analysis, post-quantum cryptography, 
 
 Publications
 ======
+---
 1. **<ins>Yaman, F.</ins>**, Mert, A.C., Ozturk, E., Savas E., **“[A Hardware Accelerator for Polynomial Multiplication Operation of CRYSTALS-KYBER PQC Scheme](https://eprint.iacr.org/2021/485.pdf)”** Design, Automation & Test in Europe Conference & Exhibition *(DATE’21)*
-2. Magara, S.S., Yildirim, C., **<ins>Yaman, F</ins>**., Dilekoğlu B., Tutas, F.R., Ozturk, E., Kaya, K., Taştan, O.,  and E Savas, E., **“[ML with HE: Privacy Preserving Machine Learning Inferences for Genome Studies](https://arxiv.org/pdf/2110.11446)”**. ACM Computer and Communications Security, *CCS’21, PPML Workshop*
-3. Calhoun, A., Ortega, E., **<ins>Yaman, F.</ins>**, Dubey A., Aysu, A., **“[Hands-On Teaching of Hardware Security for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3526241.3530828)”** Proceedings of the Great Lakes Symposium on VLSI, *(ACM GLS-VLSI 2022)* 
-4. Mert, A.C., **<ins>Yaman, F.</ins>**, Karabulut, E., Ozturk, E., Savas, E., Aysu, A., **“[A Survey of Software Implementations for the Number Theoretic Transform](https://dl.acm.org/doi/abs/10.1007/978-3-031-46077-7_22)”** SAMOS 2023 International Conference on Embedded Computer Systems
+2. Kurian, A., Dubey, A., **<ins>Yaman, F.</ins>**, Aysu, A. **“[TPUXtract: An Exhaustive Hyperparameter Extraction Framework](https://tches.iacr.org/index.php/TCHES/article/view/11923/11782)”**. IACR Transactions on Cryptographic Hardware and Embedded Systems, *(CHES 2025)*
+3. Magara, S.S., Yildirim, C., **<ins>Yaman, F</ins>**., Dilekoglu B., Tutas, F.R., Ozturk, E., Kaya, K., Taştan, O.,  and E Savas, E., **“[ML with HE: Privacy Preserving Machine Learning Inferences for Genome Studies](https://arxiv.org/pdf/2110.11446)”**. ACM Computer and Communications Security, *CCS’21, PPML Workshop*
+4. Calhoun, A., Ortega, E., **<ins>Yaman, F.</ins>**, Dubey A., Aysu, A., **“[Hands-On Teaching of Hardware Security for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3526241.3530828)”** Proceedings of the Great Lakes Symposium on VLSI, *(ACM GLS-VLSI 2022)* 
+5. Mert, A.C., **<ins>Yaman, F.</ins>**, Karabulut, E., Ozturk, E., Savas, E., Aysu, A., **“[A Survey of Software Implementations for the Number Theoretic Transform](https://dl.acm.org/doi/abs/10.1007/978-3-031-46077-7_22)”** SAMOS 2023 International Conference on Embedded Computer Systems
 
 Work Experiences
 ======
+---
 ## AMD ##
-**Hardware Security Engineer – Product Security Research Team (PSO RD)**, *May 2022 – Present* 
+**Hardware Security Reseacher – Product Security Research Team (PSO RD)**, *May 2022 – Present* 
 - Conducted in-depth evaluations of Post-Quantum Cryptography (PQC) algorithms, ensuring optimal efficiency and robustness for next-generation cryptographic systems.
 - Architected secure computation frameworks for machine learning (ML) and artificial intelligence (AI) on GPUs, including the design of a homomorphic encryption compiler to protect sensitive AI operations.
 - Strengthened the security architecture of AMD’s Secure Encrypted Virtualization and Trusted Execution Environment, mitigating potential vulnerabilities and enhancing system integrity.
@@ -45,6 +48,7 @@ Work Experiences
 
 Research Experiences
 ======
+---
 ## Hardware Cyber Threat Research Lab, NC State University ##
 **Advisor: Dr. Aydin Aysu**, *Jan 2021 – July 2022*
 - Conducted side-channel analysis (SCA) on deep learning accelerators for edge devices, leveraging the Python TensorFlow framework to uncover vulnerabilities.
