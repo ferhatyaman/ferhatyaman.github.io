@@ -21,7 +21,7 @@ repository               : "ferhatyaman/ferhatyaman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : profile_photo.jpeg
+  avatar           : /files/profile_photo.jpeg
   name             : "Ferhat Yaman"
   pronouns         : # example: "she/her"  
   bio              : "Security Researcher at AMD | Expert in Side-Channel Analysis, Post-Quantum Cryptography & Homomorphic Encryption | Advancing Secure Machine Learning"
