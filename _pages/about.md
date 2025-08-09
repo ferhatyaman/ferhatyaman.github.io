@@ -11,6 +11,15 @@ I am a Hardware Security Researcher at AMD, specializing in secure cryptographic
 
 My research interests include side-channel analysis, post-quantum cryptography, homomorphic encryption, and privacy-enhancing technologies.
 
+News
+======
+---
+ - **[August 07 2025]** - I'm excited to share that I was a recent guest on the [Shielded: The Last Line of Cyber Defense podcast](https://shieldedpodcast.com/e/286qzlzn-hardware-is-the-hidden-risk-ferhat-yaman-on-pqc-side-channel-attacks-and-ai-privacy).
+  It was a pleasure speaking with host Johannes Lintzen about some of the most pressing challenges at the intersection of hardware and security. We covered the critical need to defend against threats like electromagnetic side-channel attacks, and I highlighted the ongoing work at AMD to secure open-source PQC implementations like Caliptra. The discussion also dove into the dual nature of AI in security: I shared my passion for building secure AI accelerators and my research on leveraging AI to protect hardware from attacks. To complete the picture, we touched upon the importance of protecting data privacy in AI through technologies like homomorphic encryption. Huge thanks to the PQShield team for having me on to share insights from my work. Hope you enjoy listening as much as I enjoyed recording it!
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EyAun_zjzoM?si=EgXifOJBCeDBO9xT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br/>
+
+
 Publications
 ======
 ---
@@ -19,6 +28,7 @@ Publications
 3. Magara, S.S., Yildirim, C., **<ins>Yaman, F</ins>**., Dilekoglu B., Tutas, F.R., Ozturk, E., Kaya, K., Taştan, O.,  and E Savas, E., **“[ML with HE: Privacy Preserving Machine Learning Inferences for Genome Studies](https://arxiv.org/pdf/2110.11446)”**. ACM Computer and Communications Security, *CCS’21, PPML Workshop*
 4. Calhoun, A., Ortega, E., **<ins>Yaman, F.</ins>**, Dubey A., Aysu, A., **“[Hands-On Teaching of Hardware Security for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3526241.3530828)”** Proceedings of the Great Lakes Symposium on VLSI, *(ACM GLS-VLSI 2022)* 
 5. Mert, A.C., **<ins>Yaman, F.</ins>**, Karabulut, E., Ozturk, E., Savas, E., Aysu, A., **“[A Survey of Software Implementations for the Number Theoretic Transform](https://dl.acm.org/doi/abs/10.1007/978-3-031-46077-7_22)”** SAMOS 2023 International Conference on Embedded Computer Systems
+6. Ferguson, A., Gibson, P., D'Agata, L., McLeod, P., **<ins>Yaman, F.</ins>**, Das, A., Colbert, I. and Cano, J.  **“[Exploiting Unstructured Sparsity in Fully Homomorphic Encrypted DNNs](https://dl.acm.org/doi/10.1145/3721146.3721948)”**. *EuroMLSys’25*, 5th Workshop on Machine Learning and Systems
 
 Work Experiences
 ======

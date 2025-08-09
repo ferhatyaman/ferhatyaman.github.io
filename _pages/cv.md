@@ -99,6 +99,7 @@ Publications
 3. Magara, S.S., Yildirim, C., **<ins>Yaman, F</ins>**., Dilekoglu B., Tutas, F.R., Ozturk, E., Kaya, K., Taştan, O.,  and E Savas, E., **“[ML with HE: Privacy Preserving Machine Learning Inferences for Genome Studies](https://arxiv.org/pdf/2110.11446)”**. ACM Computer and Communications Security, *CCS’21, PPML Workshop*
 4. Calhoun, A., Ortega, E., **<ins>Yaman, F.</ins>**, Dubey A., Aysu, A., **“[Hands-On Teaching of Hardware Security for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3526241.3530828)”** Proceedings of the Great Lakes Symposium on VLSI, *(ACM GLS-VLSI 2022)* 
 5. Mert, A.C., **<ins>Yaman, F.</ins>**, Karabulut, E., Ozturk, E., Savas, E., Aysu, A., **“[A Survey of Software Implementations for the Number Theoretic Transform](https://dl.acm.org/doi/abs/10.1007/978-3-031-46077-7_22)”** SAMOS 2023 International Conference on Embedded Computer Systems
+6. Ferguson, A., Gibson, P., D'Agata, L., McLeod, P., **<ins>Yaman, F.</ins>**, Das, A., Colbert, I. and Cano, J.  **“[Exploiting Unstructured Sparsity in Fully Homomorphic Encrypted DNNs](https://dl.acm.org/doi/10.1145/3721146.3721948)”**. *EuroMLSys’25*, 5th Workshop on Machine Learning and Systems
 
 Skills
 ======
